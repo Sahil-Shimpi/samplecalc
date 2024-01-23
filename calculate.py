@@ -1,9 +1,9 @@
 # Flawed Python Code
 
-def calculate_sum(a, b) 
-result = a + b 
-print("The sum of", a, "and", b, "is:", result 
-return result
+def calculate_sum(a, b):
+  result = a + b
+  print("The sum of", a, "and", b, "is:", result )
+  return result
 
 # Example usage 
 
